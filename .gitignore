@@ -3,3 +3,4 @@
 .ipynb_checkpoints/
 *.cache
 data/creds.csv
+data/playlist_uri.csv
