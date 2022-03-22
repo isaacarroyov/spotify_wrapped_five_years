@@ -5,3 +5,4 @@
 data/creds.csv
 data/playlist_uri.csv
 notebooks/data_extraction*
+ignore_*
